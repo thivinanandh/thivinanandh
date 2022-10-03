@@ -4,9 +4,9 @@
 
 🔭 I’m currently working on Computational Fluid Dynamics, Machine Learning, High Performance Computing, Finite Element Methods , Physics Informed Neural networks. 
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="20">](https://www.linkedin.com/in/thivinanandh/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"  height="20">](https://scholar.google.com/citations?user=NiA-K0MAAAAJ)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"  height="20">](https://stackoverflow.com/users/14759548/thivinanandh)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="40">](https://www.linkedin.com/in/thivinanandh/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"  height="40">](https://scholar.google.com/citations?user=NiA-K0MAAAAJ)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"  height="40">](https://stackoverflow.com/users/14759548/thivinanandh)
 
 
 
@@ -15,8 +15,8 @@
 
 ## Programming Languages
 ---
-<code><img height="20" alt="c++" src="https://isocpp.org/assets/images/cpp_logo.png"></code><code><img height="20" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
 
+```
 Computational : C++ | C | Python | Matlab 
 FEM Pacakages : ParMooN | deal-ii (Basics)
 Build & Version Control : Git | CMake 
@@ -25,7 +25,7 @@ Meshing : Gmsh | Pointwise (Basics)
 HPC : CUDA | MPI | OpenMP 
 Reporting : LaTeX
 Web Development : HTML5 | CSS3 | Javascript | p5.js
-
+```
 ## Repository Summary
 ---
 
