@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+-->
+
+
 - 🔭 I’m currently working on Computational Fluid Dynamics, Machine Learning, High Performance Computing, Finite Element Methods , Physics Informed Neural networks. 
 - 🌱 I’m currently learning MlOps
--->
+
