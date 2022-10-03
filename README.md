@@ -1,4 +1,4 @@
-# Hi ,This is Thivin..! 👋
+# Hi, This is Thivin..! 👋
 
 <!--
 **thivinanandh/thivinanandh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
