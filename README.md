@@ -41,7 +41,7 @@ Web Development : HTML5 | CSS3 | Javascript | p5.js
 ### Finite Element Methods
 ---
 
-* [Parallel Finite Element Solver for 1D problems](https://github.com/thivinanandh/1D_FEM_Solver_Parallel)
+* [Parallel Finite Element Solver for 1D problems](https://github.com/thivinanandh/1D_FEM_Solver_Parallel) - End to End 1D FEM solver with CSR Support and Visualisations
 * [ParMooN](https://github.com/sassanin/ParMooN) - I have made contribution to the inhouse FEM Package developed at Stars Lab IISc
 
 ### MLOps
