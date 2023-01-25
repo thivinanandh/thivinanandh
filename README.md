@@ -80,6 +80,11 @@ Web Development         : HTML5 | CSS3 | Javascript | p5.js
 ---
 * [CAF](https://thivinthewebdev.github.io/CAF_acc/CAF_acc/docs/index.html) - A landing page for a Application (Design Credits : ar.venkatesh.ry@gmail.com)
 
+### Operating Systems
+---
+* [ReaderWritter](https://github.com/thivinanandh/Operating_Systems_Codes/tree/master/Reader-Writter) - Reader-Writter Codes in C
+* [job Scheduler](https://github.com/thivinanandh/Operating_Systems_Codes/tree/master/jobScheduler) - A simple job scheduler in C
+
 ### Other Tools
 ---
 * [pdf to h5p Converter](https://github.com/thivinanandh/pdf_to_h5p_converter) - An online tool which converts pdf into the h5p format
