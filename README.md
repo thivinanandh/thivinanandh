@@ -29,6 +29,9 @@ Web Development         : HTML5 | CSS3 | Javascript | p5.js
 ## Repository Summary
 ---
 
+## HPC & Computation
+---
+
 ### High Performance Computing 
 ---
 * [GPU based Asynchronous contact tracing for infectious diseases](https://github.com/thivinanandh/GPU-Cuda_Contact_Tracing)
@@ -44,17 +47,20 @@ Web Development         : HTML5 | CSS3 | Javascript | p5.js
 * [Parallel Finite Element Solver for 1D problems](https://github.com/thivinanandh/1D_FEM_Solver_Parallel) - End to End 1D FEM solver with CSR Support and Visualisations
 * [ParMooN](https://github.com/sassanin/ParMooN) - I have made contribution to the inhouse FEM Package developed at Stars Lab IISc
 
-### MLOps
----
-
-* [A CI/CD based Web deployment of ML Classifier](https://github.com/thivinanandh/ML_MINST_Deployment)- Includes github actions, DVC, Flask web deployment(Heroku), Cookie Cutter template
-* [MlOps-Teaching Repo](https://github.com/thivinanandh/MLOps_GithubActions) - TA material for pytest,dvc,github actions
 
 ### Computational Fluid Dynamics
 ---
 * [2D Incompressible navier Stokes Solver](https://github.com/thivinanandh/2D_Incompressible_NavierStokes_Solver) - For Lid Driven Cavity problem
 * [CFD Codes](https://github.com/thivinanandh/CFD_Course_Codes) - Collection of 1D and 2D Codes for Elliptic and Hyperbolic problems
 
+## Machine Learning and MLOps
+---
+
+### MLOps
+---
+
+* [A CI/CD based Web deployment of ML Classifier](https://github.com/thivinanandh/ML_MINST_Deployment)- Includes github actions, DVC, Flask web deployment(Heroku), Cookie Cutter template
+* [MlOps-Teaching Repo](https://github.com/thivinanandh/MLOps_GithubActions) - TA material for pytest,dvc,github actions
 
 ### Machine Learning 
 ---
@@ -70,6 +76,9 @@ Web Development         : HTML5 | CSS3 | Javascript | p5.js
 ### NeuroEvolution
 ---
 * [FlappyBird](https://github.com/thivinanandh/NeuroEvolution) - A neuro Evolution trainning and implementation of Flappy bird [NE Trainning Demo](https://thivinanandh.github.io/NeuroEvolution/flappyBird/index.html) , [Neural networn Input Visualisation](https://thivinanandh.github.io/NeuroEvolution/flappyNN/index.html)
+
+## Others
+---
 
 ### Game Development
 ---
