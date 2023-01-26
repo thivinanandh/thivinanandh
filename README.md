@@ -67,6 +67,10 @@ Web Development         : HTML5 | CSS3 | Javascript | p5.js
 * [Naive Bayes Classifier](https://github.com/thivinanandh/Naive_Bayes_Classifier) - for classification of news genre based on headlines
 * [Covid prediction based on Symptoms](https://github.com/thivinanandh/Covid_Prediction_ML)- A very basic ML model for identifying covid result based on Symptoms
 
+### NLP - learning codes
+* [Sentiment Analysis](https://github.com/thivinanandh/NLP-Learning/tree/master/Cybersecurity%20-Token%20Classification) - sentiment analysis on news dataset
+* [Token Classification](https://github.com/thivinanandh/NLP-Learning/tree/master/Cybersecurity%20-Token%20Classification) - Token classification on cyber security dataset
+
 ### Genetic Algorithm
 
 * [nQueens Problem](https://github.com/thivinanandh/Genetic_Algorithm/tree/main/nQueens) - A Genetic Algorithm based nQueens Solver [Live Demo](https://thivinanandh.github.io/Genetic_Algorithm/nQueens/)
