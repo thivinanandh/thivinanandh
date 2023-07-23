@@ -4,13 +4,13 @@
 
 🔭 I’m currently working on Computational Fluid Dynamics, Machine Learning, High Performance Computing, Finite Element Methods , Physics Informed Neural networks. 
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="40">](https://www.linkedin.com/in/thivinanandh/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"  height="40">](https://scholar.google.com/citations?user=NiA-K0MAAAAJ)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"  height="40">](https://stackoverflow.com/users/14759548/thivinanandh)
-
-
-
-
+[LINKEDIN: <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="40">](https://www.linkedin.com/in/thivinanandh/)
+<br />
+[GOOGLE SCHOLAR : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"  height="40">](https://scholar.google.com/citations?user=NiA-K0MAAAAJ)
+<br>
+[STACKOVERFLOW : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"  height="40">](https://stackoverflow.com/users/14759548/thivinanandh)
+<br />
+[COMP - STACKEXCHANGE : <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQacQ3Fm5-auawCN4ygk5sXx426jqxvq_QRQfwd-LlCo2MXImsDn3iw-U4TOxWL-IqPjmg&usqp=CAU" height="40">](https://scicomp.stackexchange.com/users/39579/thivinanandh)
 
 
 ## Programming Languages
@@ -34,8 +34,14 @@ Web Development         : HTML5 | CSS3 | Javascript | p5.js
 
 ### High Performance Computing 
 
+#### *Message Passing Interface (MPI)*
+* [Page Rank Computation using MPI](https://github.com/thivinanandh/MPI_Programming/tree/main/PageRank) Page Rank computation using MPI on a distributed system
+* [Collective Communications Implementation](https://github.com/thivinanandh/MPI_Programming/tree/main/MPI_Collective_Communication) Implementation of MPI Collective communications as shown in Thakur. Et al. 2005
+
+#### *GPU Programming (CUDA)*
+
 * [GPU based Asynchronous contact tracing for infectious diseases](https://github.com/thivinanandh/GPU-Cuda_Contact_Tracing)
-* [MPI Programs](https://github.com/thivinanandh/MPI_Programming) A collection of some of my MPI based codes
+
 * [GPU Matrix Multiplication](https://github.com/thivinanandh/GPU-OpenMP-MatixMultiplicaiton) - Implementation of Matrix Multiplication routines between Shared and nonShared GPU memory
 * [GPU-Cuda Codes](https://github.com/thivinanandh/GPU_Programming_CUDA) A collection of some of my CUDA based codes for NVIDIA GPU's
 * [Parallel Iterative Solvers for Sparse Matrices](https://github.com/thivinanandh/IterativeSolversforFEM) Iterative solvers for CSR matrix written using IntelMKL and openmp parallel routines
@@ -61,15 +67,25 @@ Web Development         : HTML5 | CSS3 | Javascript | p5.js
 * [A CI/CD based Web deployment of ML Classifier](https://github.com/thivinanandh/ML_MINST_Deployment)- Includes github actions, DVC, Flask web deployment(Heroku), Cookie Cutter template
 * [MlOps-Teaching Repo](https://github.com/thivinanandh/MLOps_GithubActions) - TA material for pytest,dvc,github actions
 
+* [Distributed ML Training on AWS](https://github.com/thivinanandh/Distributed_ML_AWS) - Distributed ML training on AWS using Spark and Docker
+
 ### Machine Learning 
 
 * [Human Voice Classification](https://github.com/thivinanandh/ML_Human_Voice_Classification) - Voice classification using MFCC Values
 * [Naive Bayes Classifier](https://github.com/thivinanandh/Naive_Bayes_Classifier) - for classification of news genre based on headlines
 * [Covid prediction based on Symptoms](https://github.com/thivinanandh/Covid_Prediction_ML)- A very basic ML model for identifying covid result based on Symptoms
 
+* [Captcha Image Prediction](https://github.com/thivinanandh/Captcha-Image-Detection-using-Image-Recognition) - Captcha Image prediction using the Image recognition techniques
+
+* [Mini ML Projects](https://github.com/thivinanandh/Mini_ML_Projects_Collection) - Collection of Small ML projects such as [Breast Cancer Detection using NN](https://github.com/thivinanandh/Mini_ML_Projects_Collection/tree/main/Breast%20Cancer%20Detection%20using%20NN), [CreditCard Fraud Detection](https://github.com/thivinanandh/Mini_ML_Projects_Collection/tree/main/CreditCard%20Fraud%20Detection), [KMeans Implementation](https://github.com/thivinanandh/Mini_ML_Projects_Collection/tree/main/KMeans%20Implementation), [NBA Classification](https://github.com/thivinanandh/Mini_ML_Projects_Collection/tree/main/NBA%20Classification), [Pain Classification based on Physiological Factors](https://github.com/thivinanandh/Mini_ML_Projects_Collection/tree/main/Pain%20Classification), [LinearRegression-AirBNB](https://github.com/thivinanandh/Mini_ML_Projects_Collection/tree/main/LinearRegression-AirBNB), [ML_MNIST](https://github.com/thivinanandh/Mini_ML_Projects_Collection/tree/main/ML_MNIST), [House Price Prediction](https://github.com/thivinanandh/Mini_ML_Projects_Collection/tree/main/House%20Price%20Prediction)
+
 ### NLP - learning codes
 * [Sentiment Analysis](https://github.com/thivinanandh/NLP-Learning/tree/master/Cybersecurity%20-Token%20Classification) - sentiment analysis on news dataset
 * [Token Classification](https://github.com/thivinanandh/NLP-Learning/tree/master/Cybersecurity%20-Token%20Classification) - Token classification on cyber security dataset
+
+### Reinforcement Learning
+* [RL for Lawn mover problem](https://github.com/thivinanandh/Reinforment_Learning_Lawn_Move) - Reinforcement learning for solving a Lawn mover Problem
+
 
 ### Genetic Algorithm
 
@@ -104,6 +120,8 @@ Web Development         : HTML5 | CSS3 | Javascript | p5.js
 * [ReaderWritter](https://github.com/thivinanandh/Operating_Systems_Codes/tree/master/Reader-Writter) - Reader-Writter Codes in C
 * [job Scheduler](https://github.com/thivinanandh/Operating_Systems_Codes/tree/master/jobScheduler) - A simple job scheduler in C
 
+### Remote Procedure Call (RPC)
+* [File Transfer Client using RPC](https://github.com/thivinanandh/File-Transfer-client-using-RPC) - A simple file transfer client using RPC
 
 
 
