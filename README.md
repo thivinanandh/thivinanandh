@@ -56,8 +56,8 @@ Web Development         : HTML5 | CSS3 | Javascript | p5.js
 
 ### Computational Fluid Dynamics
 
-* [2D Incompressible navier Stokes Solver](https://github.com/thivinanandh/2D_Incompressible_NavierStokes_Solver) - For Lid Driven Cavity problem
-* [CFD Codes](https://github.com/thivinanandh/CFD_Course_Codes) - Collection of 1D and 2D Codes for Elliptic and Hyperbolic problems
+* [2D Incompressible navier Stokes Solver](https://github.com/thivinanandh/2D_Incompressible_NavierStokes_Solver) - For Lid Driven Cavity problem using Pressure projection method
+* [CFD Codes](https://github.com/thivinanandh/CFD_Course_Codes) - Collection of 1D and 2D Codes for Elliptic and Hyperbolic problems in CFD
 
 ## Machine Learning and MLOps
 ---
