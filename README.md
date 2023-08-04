@@ -84,7 +84,7 @@ Web Development         : HTML5 | CSS3 | Javascript | p5.js
 * [Token Classification](https://github.com/thivinanandh/NLP-Learning/tree/master/Cybersecurity%20-Token%20Classification) - Token classification on cyber security dataset
 
 ### Reinforcement Learning
-* [RL for Lawn mover problem](https://github.com/thivinanandh/Reinforment_Learning_Lawn_Move) - Reinforcement learning for solving a Lawn mover Problem
+* [RL for Lawn mover problem](https://github.com/thivinanandh/Reinforment_Learning_Lawn_Mover) - Reinforcement learning for solving a Lawn mover Problem
 
 
 ### Genetic Algorithm
