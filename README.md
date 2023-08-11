@@ -96,12 +96,19 @@ Web Development         : HTML5 | CSS3 | Javascript | p5.js
 
 * [FlappyBird](https://github.com/thivinanandh/NeuroEvolution) - A neuro Evolution trainning and implementation of Flappy bird [NE Trainning Demo](https://thivinanandh.github.io/NeuroEvolution/flappyBird/index.html) , [Neural networn Input Visualisation](https://thivinanandh.github.io/NeuroEvolution/flappyNN/index.html)
 
+
 ## Open Source Tools
 ---
 
 * [pdf to h5p Converter](https://github.com/thivinanandh/pdf_to_h5p_converter) - An online tool which converts pdf into the h5p format
 * [FootBall Links Stream](https://thivinanandh.github.io/Football_Streaming_Links/) - An online webpage which grabs all live soccer links
 * [Grading Emailer](https://github.com/thivinanandh/grading-emailer) - A css Flex based automated email report generation tool
+
+## Teaching Repositories
+---
+
+* [Python Libraries](https://github.com/thivinanandh/Teaching-Python.git) - Collection of Teaching notebooks for Python libraries
+
 
 ## Others
 ---
