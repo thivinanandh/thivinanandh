@@ -2,7 +2,9 @@
 
 
 
-🔭 I’m currently working on Computational Fluid Dynamics, Machine Learning, High Performance Computing, Finite Element Methods , Physics Informed Neural networks. 
+🔭 I’m currently working on Scientific Machine Learning, Data Science,  Computational Fluid Dynamics, High Performance Computing, Finite Element Methods , Physics Informed Neural networks and Reduced order modeling. 
+
+
 
 [LINKEDIN: <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="40">](https://www.linkedin.com/in/thivinanandh/)
 <br />
