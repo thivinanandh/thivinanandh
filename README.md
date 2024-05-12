@@ -6,20 +6,18 @@
 
 
 
-[LINKEDIN: <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="40">](https://www.linkedin.com/in/thivinanandh/)
-<br />
-[GOOGLE SCHOLAR : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"  height="40">](https://scholar.google.com/citations?user=NiA-K0MAAAAJ)
-<br>
-[STACKOVERFLOW : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"  height="40">](https://stackoverflow.com/users/14759548/thivinanandh)
-<br />
-[COMP - STACKEXCHANGE : <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQacQ3Fm5-auawCN4ygk5sXx426jqxvq_QRQfwd-LlCo2MXImsDn3iw-U4TOxWL-IqPjmg&usqp=CAU" height="40">](https://scicomp.stackexchange.com/users/39579/thivinanandh)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="40">](https://www.linkedin.com/in/thivinanandh/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"  height="40">](https://scholar.google.com/citations?user=NiA-K0MAAAAJ)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"  height="40">](https://stackoverflow.com/users/14759548/thivinanandh)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQacQ3Fm5-auawCN4ygk5sXx426jqxvq_QRQfwd-LlCo2MXImsDn3iw-U4TOxWL-IqPjmg&usqp=CAU" height="40">](https://scicomp.stackexchange.com/users/39579/thivinanandh)
 
 
 ## Programming Languages
 ---
 
 ```
-Computational           : C++ | C | Python | Matlab 
+Computational           : C++ | C | Python | Matlab
+ML                      : Tensorflow | keras | sklearn 
 FEM Pacakages           : ParMooN | deal-ii (Basics)
 Build & Version Control : Git | CMake 
 MLOps                   : Github Actions | DVC | Flask | Docker
@@ -28,8 +26,20 @@ HPC                     : CUDA | MPI | OpenMP
 Reporting               : LaTeX
 Web Development         : HTML5 | CSS3 | Javascript | p5.js
 ```
+
+## Summary Statistics
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thivinanandh&show_icons=true&locale=en" alt="thivinanandh" /></p>
+
 ## Repository Summary
 ---
+
+## Scientific Machine Learning
+---
+
+* [FastVPINNs](https://github.com/cmgcds/fastvpinns) - A fast tensor-based variational physics informed Neural networks for complex geometries
+
 
 ## HPC & Computation
 ---
