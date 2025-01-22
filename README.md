@@ -2,7 +2,9 @@
 
 
 
-🔭 I’m currently working on Scientific Machine Learning, Computational Fluid Dynamics, High Performance Computing (GPU), Finite Element Methods , Physics Informed Neural networks and MLOPs. 
+### I’m currently working on
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&color=49F76A&center=true&multiline=true&width=700&height=300&lines=Scientific+Machine+Learning+%7C+High+Performance+Computing;Finite+Element+Methods+%7C+Computational+Fluid+Dynamics;MLOPs+)](https://git.io/typing-svg)
 
 Checkout my portfolio at [https://thivinanandh.github.io](https://thivinanandh.github.io)
 
