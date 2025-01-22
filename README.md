@@ -2,9 +2,9 @@
 
 
 
-🔭 I’m currently working on Scientific Machine Learning, Data Science,  Computational Fluid Dynamics, High Performance Computing, Finite Element Methods , Physics Informed Neural networks and Reduced order modeling. 
+🔭 I’m currently working on Scientific Machine Learning, Computational Fluid Dynamics, High Performance Computing (GPU), Finite Element Methods , Physics Informed Neural networks and MLOPs. 
 
-
+Checkout my portfolio at [https://thivinanandh.github.io](https://thivinanandh.github.io)
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="40">](https://www.linkedin.com/in/thivinanandh/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"  height="40">](https://scholar.google.com/citations?user=NiA-K0MAAAAJ)
@@ -20,7 +20,7 @@ Computational           : C++ | C | Python | Matlab
 ML                      : Tensorflow | keras | sklearn 
 FEM Pacakages           : ParMooN | deal-ii (Basics)
 Build & Version Control : Git | CMake 
-MLOps                   : Github Actions | DVC | Flask | Docker
+MLOps                   : Github Actions | DVC | Flask | Docker | Kubernetes | Jenkins
 Meshing                 : Gmsh | Pointwise (Basics)
 HPC                     : CUDA | MPI | OpenMP 
 Reporting               : LaTeX
